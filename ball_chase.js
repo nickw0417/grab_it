@@ -41,6 +41,7 @@ function draw() {
   }
   text("Score: " + score, width/2, 40);
   text("YOU GRABBED THE FRUIT!");
+  text("HOORAY");
 }
 
 // LEVELS--------------------------------------------------
